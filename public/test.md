@@ -1,5 +1,5 @@
 ---
-title: ADMM ⊇ projective dynamics
+title: test
 tags:
   - ''
 private: false
@@ -10,4 +10,3 @@ slide: false
 ignorePublish: false
 ---
 # new article body
-test
