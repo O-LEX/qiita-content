@@ -1,7 +1,7 @@
 ---
 title: ADMM ⊇ projective dynamics
 tags:
-  - ''
+  - テスト
 private: false
 updated_at: ''
 id: null
